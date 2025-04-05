@@ -8,7 +8,7 @@ namespace DogusODEV1
 {
     public class OdemeIslemcisi
     {
-        public IOdeme odemeYontemi;
+        private IOdeme odemeYontemi;
 
         public OdemeIslemcisi(IOdeme odemeYontemi)
         {
